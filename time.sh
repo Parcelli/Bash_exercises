@@ -1,0 +1,4 @@
+date
+who -q
+uptime
+
